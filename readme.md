@@ -19,7 +19,6 @@ Este proyecto consiste en un programa hecho en **JavaScript** que solicita al us
 | 50 (si el secreto es 42) | Ups, el número secreto es incorrecto, vuelve a intentarlo. |
 | 101                   | Entrada inválida. Intenta con un número entre 1 y 100. |
 | 42 (si el secreto es 42) | Felicidades, adivinaste el número secreto.  
-Intentos previos: 50, 30, 70... |
 
 ## 🛠️ Tecnologías utilizadas
 
